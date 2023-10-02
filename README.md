@@ -26,7 +26,7 @@
 <img alt="LinkedIn" style="" src=>
 
 <img alt="Instagram" style="" src="">
-<a href="[https://linkedin.com/in/m7medfaleh](https://www.linkedin.com/in/mikejunior-mkhabele-1a640118b)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m7medfaleh" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/m7medfaleh](https://www.linkedin.com/in/mikejunior-mkhabele-1a640118b)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 </p>
 
 
