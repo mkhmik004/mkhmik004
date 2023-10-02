@@ -1,4 +1,4 @@
-<img alt="my linkedin profile" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" onclick="location.href='[https://www.linkedin.com/in/mikejunior-mkhabele-1a640118b(https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css)'" />
+<img alt="my linkedin profile" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 
 
 
