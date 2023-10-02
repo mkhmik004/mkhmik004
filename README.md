@@ -2,12 +2,9 @@
 
 
 
- <img class="icon" src="l.png" alt="my linkedin profile"
-                    onclick="location.href='https://www.linkedin.com/in/mikejunior-mkhabele-1a640118b'">
-                <img class="icon" src="yout.png" alt="my YouTube"
-                    onclick="location.href='https://www.youtube.com/@MarkNoTalent'">
-                <img class="icon" src="ig.png" alt="my Instagram"
-                onclick="location.href='https://instagram.com/marknotalent?igshid=OGQ5ZDc2ODk2ZA=='">
+ <img class="icon" src="l.png" alt="my linkedin profile" onclick="location.href='[https://www.linkedin.com/in/mikejunior-mkhabele-1a640118b(https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css)'">
+ <img class="icon" src="yout.png" alt="my YouTube" onclick="location.href='https://www.youtube.com/@MarkNoTalent'">
+<img class="icon" src="ig.png" alt="my Instagram" onclick="location.href='https://instagram.com/marknotalent?igshid=OGQ5ZDc2ODk2ZA=='">
                 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkhmik004)](https://github.com/anuraghazra/github-readme-stats)           
  <h3>👨🏾‍💻 career journey</h3>
