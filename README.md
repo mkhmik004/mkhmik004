@@ -1,5 +1,6 @@
 <h3>#👨🏾‍💻MMM MKHABELE#</h3>
-I am an experienced software developer with expertise in web development, Python unit testing and building and maintaining programs.Able to effectively self manage projects and collaborate using Git and GitHub as part of a productive team
+
+As an experienced software developer, my skill set encompasses web development, Python unit testing, and project management, enabling me to self-manage and collaborate efficiently within Git and GitHub-based teams. To further enhance my career, I aim to diversify my technical stack, stay updated on industry trends, and engage in open source contributions. Cultivating soft skills, mentoring, and pursuing relevant certifications are integral aspects of my professional growth. I also emphasize the importance of documentation and testing in maintaining robust codebases and advocate for these practices in my work. Networking within the tech community and undertaking personal projects further fuel my journey as a versatile and effective software developer.
 
 <h3>#Tech Stack#</h3>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
