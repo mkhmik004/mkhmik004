@@ -19,7 +19,7 @@ As an experienced software developer, my skill set encompasses web development, 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkhmik004)](https://github.com/anuraghazra/github-readme-stats) 
 
 <h3>#Relavant Education#📚</h3>
-Currently persuing the following <b>Harvard CS50 professional certificates</b>:
+<b>Harvard CS50 professional certificates</b>:
 <ol>
   <li>Introduction to computer science</li>
   <li>Programing with python</li>
