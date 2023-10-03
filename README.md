@@ -19,15 +19,20 @@ As an experienced software developer, my skill set encompasses web development, 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkhmik004)](https://github.com/anuraghazra/github-readme-stats) 
 
 <h3>#Relavant Education#📚</h3>
-a) Currently persuing the following Harvard CS50 professional certificates:<br>
-1. Introduction to computer science<br>
-2. Programing with python<br>
-3. Web Programming with Python & javaScript<br>
-4. Introduction to Artificial Intelligance with Python<br>
-5. Mobile App Development with React<br>
-6. Introduction to Game Development<br>
-b) The Odin Project
-1. FullStack JavaScript developer path
+Currently persuing the following Harvard CS50 professional certificates:<br>
+<ol>
+  <li>Introduction to computer science</li>
+  <li>Programing with python</li>
+  <li>Web Programming with Python & javaScript</li>
+  <li>Introduction to Artificial Intelligance with Python</li>
+  <li>Mobile App Development with React</li>
+  <li>Introduction to Game Development</li>
+</ol>
+The Odin Project
+<ol>
+  <li>FullStack JavaScript developer path</li>
+</ol>
+
 
 <h3>#Career Journey#🚙</h3>
 <p>I'm a self taught <em>Software Developer</em> with a unique background. Originally, I studied <em>Economics and Finance</em> at <em>the University of Cape Town</em>. However, my true passion lies in the tech world, and I've dedicated myself to this new career path.</P><P>Despite the challenges of changing fields, I've worked hard and persevered.Now, I'm able to combine my insights from my <em>Bachelor of commerce degree</em> with my tech skills gained from <em>Havard's extension school</em> to tackle complex problems.</p><p>I firmly believe that limitations are actually opportunities waiting to be discovered. My journey is proof that determination can overcome any obstacle. I'm eager to connect with like-minded individuals and collaborate on innovative projects in the software development realm. Let's work together and bring creative solutions to life!</p>
