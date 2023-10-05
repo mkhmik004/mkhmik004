@@ -32,6 +32,14 @@ As an experienced software developer, my skill set encompasses web development, 
 <ol>
   <li>FullStack JavaScript developer path</li>
 </ol>
+<b>University of Cape Town<b>
+<ol>
+  <li>CSC1015-Intro to Python</li>
+  <li>CSC1016-Intro to Java</li>
+  <li>MAM1000W-Mathematics 1</li>
+  <li>Statistics( Introductory Statistics(STA1000), Theory of Statistics(STA2030S) & Applied statistics(STA2020F))</li>
+ 
+</ol>
 
 
 <h3>#Career Journey#🚙</h3>
